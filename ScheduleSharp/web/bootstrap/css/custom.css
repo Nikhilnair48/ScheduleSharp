@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Author     : nikhilnair
+*/
+
+#registerStudent {
+    margin-top: 7px;
+}
+
+span.error {
+    color:red;
+    font-size: 15px;
+}
+#bg {
+    position: fixed; 
+    top: 0%; 
+    left: 0%; 
+    width: 100%; 
+    height: 100%;
+    background-color: #ffed9b;
+}
+#bg img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.modal-dialog-index
+{width:400px;margin:20px auto;}
+.modal-content-index
+{position:relative;background-color:#cccc00;-webkit-background-clip:padding-box;background-clip:padding-box;border:1px solid #999;border:1px solid rgba(0,0,0,0);border-radius:6px;outline:0;-webkit-box-shadow:0 3px 9px rgba(0,0,0,1);box-shadow:0 3px 9px rgba(0,0,0,1)}
+.modal-content-index
+{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);box-shadow:0 5px 15px rgba(0,0,0,.5)}
+.btn-submit{color:#fff;background-color:#003366;}
+.btn-reg{color:#fff;background-color:#CC9900;}
+.modal-dialog2{width:800px;margin:30px auto;}
+.modal-content2{position:relative;background-color:#CCCCCC;-webkit-background-clip:padding-box;background-clip:padding-box;border:1px solid #999;border:1px solid rgba(0,0,0,.2);border-radius:6px;outline:0;-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5)}
+.modal-content2{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);box-shadow:0 5px 15px rgba(0,0,0,.5)}
+.table-striped2>tbody>tr:nth-child(odd){background-color: #003366;}
